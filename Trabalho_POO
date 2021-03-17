@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-16T01:39:34.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="RN1epwmYklYiL-4ymU4Y" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-17T00:18:28.152Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="plq6vIQEpqk4gZEzcXtx" version="14.4.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1695" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,11 +202,12 @@
         <mxCell id="pM6I_zyiXGMR9dXL_lpe-47" value="+ getAlunos(): Aluno&#xa;+ setEscolaridade(String): void&#xa;&#xa;+ getProfessor(): Professor&#xa;+ setProfessor(Professor): void&#xa;&#xa;+ getDisciplina(): String&#xa;+ setDisciplica(String): void&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=4;fillColor=#ffffff;" parent="pM6I_zyiXGMR9dXL_lpe-44" vertex="1">
           <mxGeometry y="108" width="230" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="pM6I_zyiXGMR9dXL_lpe-57" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=elbowEdgeStyle;align=left;verticalAlign=top;elbow=vertical;entryX=0.275;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="zkfFHV4jXpPFQw0GAbJ--10">
+        <mxCell id="pM6I_zyiXGMR9dXL_lpe-57" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=elbowEdgeStyle;align=left;verticalAlign=top;elbow=vertical;entryX=0.275;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="zkfFHV4jXpPFQw0GAbJ--10" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-50" y="640" as="sourcePoint" />
             <mxPoint x="100" y="620" as="targetPoint" />
             <Array as="points">
+              <mxPoint y="650" />
               <mxPoint x="30" y="640" />
             </Array>
           </mxGeometry>
@@ -227,13 +228,14 @@
             <mxPoint x="-40" y="630" as="sourcePoint" />
             <mxPoint x="110" y="610" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="10" y="650" />
               <mxPoint x="-20" y="640" />
               <mxPoint x="110" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="toBAeWXPbl07ZCOjpzyU-0" value="1...30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="620" width="40" height="20" as="geometry" />
+        <mxCell id="toBAeWXPbl07ZCOjpzyU-0" value="1...30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="30" y="628" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
